@@ -26,12 +26,14 @@ h1{
 progress{
   padding: 13px;
   font-size: 25px;
+  width:30vw;
 }
 button{
   width: 180px;
   background-color:#CB2605;
   margin-left:25px;
   font-size:180%;
+  color:black;
 }
 p{
   font-size: 20px;
