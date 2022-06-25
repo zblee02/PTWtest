@@ -16,8 +16,9 @@ a{
   color:#C0392B;
   text-decoration: none;
   font-size: 20px;
-  margin: 5%;
-  padding:4px;
+  margin: 3%;
+  padding:4.5px;
+  display: inline-block;
 }
 h1{
   font-size: 40px;
